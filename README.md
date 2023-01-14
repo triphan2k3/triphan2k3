@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # Contributions 📈
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=triphan2k3&show_icons=true&theme=dark&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?user=triphan2k3&show_icons=true&theme=dark&count_private=true&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=triphan2k3&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727" />
